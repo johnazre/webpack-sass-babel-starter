@@ -1,5 +1,5 @@
 {
-  "name": "webpack-playlist",
+  "name": "webpack-sass-babel-starter",
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamshaunjp/webpack-playlist.git"
+    "url": "git+https://github.com/johnazre/webpack-sass-babel-starter.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "John Armbruster",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamshaunjp/webpack-playlist/issues"
+    "url": "https://github.com/johnazre/webpack-sass-babel-starter/issues"
   },
-  "homepage": "https://github.com/iamshaunjp/webpack-playlist#readme",
+  "homepage": "https://github.com/johnazre/webpack-sass-babel-starter#readme",
   "devDependencies": {
     "babel-core": "^6.24.0",
     "babel-loader": "^6.4.1",
