@@ -1,13 +1,13 @@
 module.exports = {
 
   // define entry point
-  entry: './src/index.js',
+  entry: __dirname + '/src/index.js',
 
   // define output point
   output: {
-    path: 'dist',
-    filename: 'bundle.js'
-  },
+		path: __dirname + "/dist",
+		filename: "bundle.js"
+	},
 
   // define loaders
   module: {
